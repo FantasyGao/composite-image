@@ -46,7 +46,7 @@ const cfg1 = {
  * @height 图片的高
  */ 
 const cfg2 = {
-  src: 'https://bpic.588ku.com/back_pic/19/04/14/bf310e139cf9fc16b3c032caccf6804a.jpg',
+  src: 'https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1805103632,2396162225&fm=26&gp=0.jpg',
   x: 90,
   y: 70,
   width: 116,
@@ -61,6 +61,8 @@ image.composite(cfg1, cfg2).then(() => {
 ```
 
 ## 结果
+
+![合并结果](https://github.com/FantasyGao/composite-image/blob/master/example/image_eg1.png)
 
 ## License
 This code is distributed under the MIT License.
