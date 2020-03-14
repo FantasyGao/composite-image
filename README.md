@@ -59,6 +59,9 @@ image.composite(cfg1, cfg2).then(() => {
   image.download('image.png'); // 将已生成图片下载至本地，可传入导出的文件名
 })
 ```
+## 入参图片
+![1](https://bpic.588ku.com/back_pic/19/04/14/bf310e139cf9fc16b3c032caccf6804a.jpg)
+![2](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1805103632,2396162225&fm=26&gp=0.jpg)
 
 ## 结果
 
