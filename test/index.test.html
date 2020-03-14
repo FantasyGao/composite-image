@@ -1,0 +1,17 @@
+<img id="img" />
+<div id="mocha"></div>
+<link rel="stylesheet" href="../node_modules/mocha/mocha.css" />
+<script src="../node_modules/mocha/mocha.js"></script>
+<script src="../node_modules/chai/chai.js"></script>
+<script src='../composite-image.js'></script>
+
+<script>
+  mocha.setup('bdd') // 使用bdd的方式
+</script>
+
+<script src="index.test.js"></script>
+
+<script>
+  mocha.run();
+</script>
+
