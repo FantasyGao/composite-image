@@ -1,7 +1,7 @@
 {
   "name": "composite-image",
   "packageName": "CompositeImage",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "FantasyGao",
   "description": "composite image and download image tool",
   "main": "dist/bundle.js",
@@ -16,7 +16,6 @@
     "image",
     "canvas"
   ],
-  "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.8.7",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
@@ -37,5 +36,14 @@
     "rollup-plugin-node-resolve": "^5.2.0",
     "rollup-plugin-typescript2": "^0.26.0",
     "typescript": "^3.8.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FantasyGao/composite-image.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FantasyGao/composite-image/issues"
+  },
+  "homepage": "https://github.com/FantasyGao/composite-image#readme"
 }

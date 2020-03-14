@@ -65,7 +65,7 @@ image.composite(cfg1, cfg2).then(() => {
 
 ## 结果
 
-![合并结果](https://github.com/FantasyGao/composite-image/blob/master/example/image_eg1.png)
+![合并结果](https://s1.ax1x.com/2020/03/14/8QKIn1.png)
 
 ## License
 This code is distributed under the MIT License.
