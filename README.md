@@ -60,8 +60,8 @@ image.composite(cfg1, cfg2).then(() => {
 })
 ```
 ## 入参图片
-![1](https://bpic.588ku.com/back_pic/19/04/14/bf310e139cf9fc16b3c032caccf6804a.jpg)
-![2](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1805103632,2396162225&fm=26&gp=0.jpg)
+<img src="https://bpic.588ku.com/back_pic/19/04/14/bf310e139cf9fc16b3c032caccf6804a.jpg" height="300px" width="300px" />
+<img src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1805103632,2396162225&fm=26&gp=0.jpg" height="116px" width="116px" />
 
 ## 结果
 
